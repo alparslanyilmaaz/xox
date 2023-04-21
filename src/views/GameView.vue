@@ -1,5 +1,13 @@
 <template>
-  <div class="w-full h-full">
-    <h1>This is an about page</h1>
+  <div class="flex items-center justify-center w-full h-full">
+    <GameComponent />
   </div>
 </template>
+
+<script lang="ts">
+import GameComponent from '@/components/GameComponent.vue';
+
+export default {
+  components: { GameComponent },
+};
+</script>
