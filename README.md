@@ -1,24 +1,9 @@
-# xox
+# Tic Tac Toe Game With Vue and Tailwind
+Basic Tic-Tac-Toe Game builded with Vue.
 
-## Project setup
-```
-yarn install
-```
+## Website
+https://xox-game-vue.netlify.app
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Installation
+- Clone this repository.
+- Run `yarn install` and `yarn serve`
